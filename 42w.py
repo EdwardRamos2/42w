@@ -1,5 +1,5 @@
 # 42w 
-# Version 0.1.0 
+# Version 0.1.0 Date 09-03-2016
 # Edward Ramos
 # https://github.com/EdwardRamos2/42w
 
