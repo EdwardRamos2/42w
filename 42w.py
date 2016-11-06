@@ -1,20 +1,14 @@
+#!/usr/bin/env python
 # 42w 
 # Version 0.1.0 Date 09-03-2016
 # Edward Ramos
 # https://github.com/EdwardRamos2/42w
-
+import sys
+import os
 print ("42w")
 print ("Version 0.1.1  NEW Version 0.2.1")
 print ("Edward Ramos")
 print ("https://github.com/EdwardRamos2/42w/")
-
-
-
-#!/usr/bin/env python
-
-
-import sys
-import os
 """
 def menu_opcoes():
     menu_wireless = open('menu.txt')
